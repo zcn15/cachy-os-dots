@@ -1,0 +1,225 @@
+{
+  "cheatsheetData": [
+    {
+      "title": "APPLICATIONS",
+      "binds": [
+        {
+          "keys": "Super + A",
+          "desc": "Terminal"
+        },
+        {
+          "keys": "Super + W",
+          "desc": "Browser"
+        },
+        {
+          "keys": "Super + E",
+          "desc": "File Manager"
+        },
+        {
+          "keys": "Super + SPACE",
+          "desc": "App Launcher"
+        },
+        {
+          "keys": "Super + C",
+          "desc": "Clipboard"
+        },
+        {
+          "keys": "Super + H",
+          "desc": "Keybinds List"
+        },
+        {
+          "keys": "Super + B",
+          "desc": "Btop"
+        }
+      ]
+    },
+    {
+      "title": "WINDOW MANAGEMENT",
+      "binds": [
+        {
+          "keys": "Super + Q",
+          "desc": "Close window"
+        },
+        {
+          "keys": "Super + V",
+          "desc": "Toggle floating"
+        },
+        {
+          "keys": "Super + F",
+          "desc": "Toggle fullscreen"
+        },
+        {
+          "keys": "Super + G",
+          "desc": "Toggle group"
+        },
+        {
+          "keys": "Super + TAB",
+          "desc": "Change group active"
+        },
+        {
+          "keys": "Super + LEFT",
+          "desc": "Focus left"
+        },
+        {
+          "keys": "Super + RIGHT",
+          "desc": "Focus right"
+        },
+        {
+          "keys": "Super + UP",
+          "desc": "Focus up"
+        },
+        {
+          "keys": "Super + DOWN",
+          "desc": "Focus down"
+        },
+        {
+          "keys": "Super + Left Click",
+          "desc": "Move window"
+        },
+        {
+          "keys": "Super + Right Click",
+          "desc": "Resize window"
+        }
+      ]
+    },
+    {
+      "title": "WORKSPACES",
+      "binds": [
+        {
+          "keys": "Super + 1",
+          "desc": "Workspace 1"
+        },
+        {
+          "keys": "Super + 2",
+          "desc": "Workspace 2"
+        },
+        {
+          "keys": "Super + 3",
+          "desc": "Workspace 3"
+        },
+        {
+          "keys": "Super + 4",
+          "desc": "Workspace 4"
+        },
+        {
+          "keys": "Super + 5",
+          "desc": "Workspace 5"
+        },
+        {
+          "keys": "Super + 6",
+          "desc": "Workspace 6"
+        },
+        {
+          "keys": "Super + 7",
+          "desc": "Workspace 7"
+        },
+        {
+          "keys": "Super + 8",
+          "desc": "Workspace 8"
+        },
+        {
+          "keys": "Super + 9",
+          "desc": "Workspace 9"
+        },
+        {
+          "keys": "Super + 0",
+          "desc": "Workspace 10"
+        },
+        {
+          "keys": "Super + Shift + 1",
+          "desc": "Move to workspace 1"
+        },
+        {
+          "keys": "Super + Shift + 2",
+          "desc": "Move to workspace 2"
+        },
+        {
+          "keys": "Super + Shift + 3",
+          "desc": "Move to workspace 3"
+        },
+        {
+          "keys": "Super + Shift + 4",
+          "desc": "Move to workspace 4"
+        },
+        {
+          "keys": "Super + Shift + 5",
+          "desc": "Move to workspace 5"
+        },
+        {
+          "keys": "Super + Shift + 6",
+          "desc": "Move to workspace 6"
+        },
+        {
+          "keys": "Super + Shift + 7",
+          "desc": "Move to workspace 7"
+        },
+        {
+          "keys": "Super + Shift + 8",
+          "desc": "Move to workspace 8"
+        },
+        {
+          "keys": "Super + Shift + 9",
+          "desc": "Move to workspace 9"
+        },
+        {
+          "keys": "Super + Shift + 0",
+          "desc": "Move to workspace 10"
+        }
+      ]
+    },
+    {
+      "title": "SPECIAL WORKPLACE",
+      "binds": [
+        {
+          "keys": "Super + S",
+          "desc": "Toggle special workspace"
+        },
+        {
+          "keys": "Super + Shift + S",
+          "desc": "Move to special workspace"
+        }
+      ]
+    },
+    {
+      "title": "SYSTEM",
+      "binds": [
+        {
+          "keys": "Super + L",
+          "desc": "Lock session"
+        },
+        {
+          "keys": "Vol Up",
+          "desc": "Volume Up"
+        },
+        {
+          "keys": "Vol Down",
+          "desc": "Volume Down"
+        },
+        {
+          "keys": "Mute",
+          "desc": "Mute Audio"
+        },
+        {
+          "keys": "Bright Up",
+          "desc": "Brightness Up"
+        },
+        {
+          "keys": "Bright Down",
+          "desc": "Brightness Down"
+        },
+        {
+          "keys": "PrtSc",
+          "desc": "Screenshot"
+        }
+      ]
+    }
+  ],
+  "detectedCompositor": "hyprland",
+  "windowWidth": 1400,
+  "windowHeight": 850,
+  "autoHeight": true,
+  "columnCount": 3,
+  "modKeyVariable": "$mainMod",
+  "hyprlandConfigPath": "~/.config/hypr/hyprland.conf",
+  "niriConfigPath": "~/.config/niri/config.kdl"
+}
