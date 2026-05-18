@@ -4,11 +4,11 @@
       "title": "APPLICATIONS",
       "binds": [
         {
-          "keys": "Super + A",
+          "keys": "Super + W",
           "desc": "Terminal"
         },
         {
-          "keys": "Super + W",
+          "keys": "Super + B",
           "desc": "Browser"
         },
         {
@@ -16,20 +16,16 @@
           "desc": "File Manager"
         },
         {
-          "keys": "Super + SPACE",
+          "keys": "Super + R",
           "desc": "App Launcher"
         },
         {
-          "keys": "Super + C",
+          "keys": "Super + V",
           "desc": "Clipboard"
         },
         {
           "keys": "Super + H",
           "desc": "Keybinds List"
-        },
-        {
-          "keys": "Super + B",
-          "desc": "Btop"
         }
       ]
     },
@@ -41,11 +37,11 @@
           "desc": "Close window"
         },
         {
-          "keys": "Super + V",
+          "keys": "Super + F",
           "desc": "Toggle floating"
         },
         {
-          "keys": "Super + F",
+          "keys": "Super + L",
           "desc": "Toggle fullscreen"
         },
         {
