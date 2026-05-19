@@ -80,18 +80,10 @@
             "center": [
                 {
                     "defaultSettings": {
-                        "autoHeight": true,
-                        "cheatsheetData": [
-                        ],
-                        "columnCount": 3,
-                        "detectedCompositor": "",
-                        "hyprlandConfigPath": "~/.config/hypr/hyprland.conf",
-                        "modKeyVariable": "$mod",
-                        "niriConfigPath": "~/.config/niri/config.kdl",
-                        "windowHeight": 0,
-                        "windowWidth": 1400
+                        "precision": 8,
+                        "showBarValue": true
                     },
-                    "id": "plugin:keybind-cheatsheet"
+                    "id": "plugin:noctalia-calculator"
                 },
                 {
                     "characterCount": 2,
@@ -115,11 +107,7 @@
                     "unfocusedIconsOpacity": 1
                 },
                 {
-                    "defaultSettings": {
-                        "precision": 8,
-                        "showBarValue": true
-                    },
-                    "id": "plugin:noctalia-calculator"
+                    "id": "plugin:timer"
                 }
             ],
             "left": [
@@ -244,6 +232,9 @@
                     "icon": "noctalia",
                     "id": "ControlCenter",
                     "useDistroLogo": false
+                },
+                {
+                    "id": "plugin:hyprland-visual-editor"
                 }
             ]
         }
@@ -253,7 +244,7 @@
         ],
         "brightnessStep": 5,
         "enableDdcSupport": false,
-        "enforceMinimum": true
+        "enforceMinimum": false
     },
     "calendar": {
         "cards": [
