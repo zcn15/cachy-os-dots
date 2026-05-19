@@ -709,6 +709,14 @@
             {
                 "enabled": true,
                 "id": "hyprland"
+            },
+            {
+                "enabled": true,
+                "id": "btop"
+            },
+            {
+                "enabled": true,
+                "id": "fuzzel"
             }
         ],
         "enableUserTheming": false
