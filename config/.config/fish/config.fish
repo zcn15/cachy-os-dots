@@ -11,3 +11,5 @@ alias config='cd .dots/config/'
 #function fish_greeting
 #    # smth smth
 #end
+
+set -gx PATH "/home/daifu/.local/bin" $PATH

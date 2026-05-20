@@ -232,9 +232,6 @@
                     "icon": "noctalia",
                     "id": "ControlCenter",
                     "useDistroLogo": false
-                },
-                {
-                    "id": "plugin:hyprland-visual-editor"
                 }
             ]
         }
@@ -699,15 +696,15 @@
         "activeTemplates": [
             {
                 "enabled": true,
-                "id": "hyprland"
-            },
-            {
-                "enabled": true,
                 "id": "btop"
             },
             {
                 "enabled": true,
                 "id": "fuzzel"
+            },
+            {
+                "enabled": true,
+                "id": "hyprland"
             }
         ],
         "enableUserTheming": false

@@ -2,6 +2,7 @@ accountsservice
 alsa-firmware
 alsa-plugins
 alsa-utils
+antigravity
 awesome-terminal-fonts
 base
 base-devel
@@ -62,6 +63,7 @@ ffmpegthumbnailer
 firefox
 flatpak
 fsarchiver
+fuzzel
 gemini-cli
 git
 github-cli
@@ -117,6 +119,7 @@ mesa-utils
 micro
 mkinitcpio
 modemmanager
+mpv
 mtools
 nano
 nano-syntax-highlighting
@@ -132,6 +135,7 @@ noto-fonts-cjk
 noto-fonts-emoji
 npm
 nss-mdns
+obs-studio
 opencl-mesa
 openssh
 os-prober
