@@ -180,7 +180,7 @@
       "title": "SYSTEM",
       "binds": [
         {
-          "keys": "Super + L",
+          "keys": "Super + Shift + L",
           "desc": "Lock session"
         },
         {
