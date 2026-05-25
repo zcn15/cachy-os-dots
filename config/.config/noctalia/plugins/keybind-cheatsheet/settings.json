@@ -75,6 +75,10 @@
         {
           "keys": "Super + Right Click",
           "desc": "Resize window"
+        },
+        {
+          "keys": "Super + Shift + R",
+          "desc": "Resize with arrows"
         }
       ]
     },
